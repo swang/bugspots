@@ -1,0 +1,9 @@
+.DS_Store
+npm-debug.log
+test*.js
+test/*.js
+.travis.yml
+.jshintrc
+swagger.json
+old/*
+index_old.js
